@@ -1,4 +1,4 @@
-Crie uma pasta que irá conter um arquivo com extensão .js para cada questão abaixo e apenas um README.md
+## Crie uma pasta que irá conter um arquivo com extensão .js para cada questão abaixo e apenas um README.md
 1 - crie um algoritmo que imprime no console de 10 a 60, iterando a cada 5, exceto para os numeros 35 e 45 que irão ser substituidos pela palavra "PULOU".
 
 2 - crie um algoritmo que converte dias em horas, quando recebe um número de dias.
@@ -16,5 +16,19 @@ a) Deverá ser possível escolher uma operação aritimética em forma de string
 b) Deverá ser possível passar 2 números para a operação escolhida
 c) Deverá retornar o resultado e imprimir no console
  
- nests=e modulo para resolver os resultados usamos 
+ **neste 3° modulo para resolver exercicios usei**
+ for /aprendemos a pular de um em um (I++) ou de cinco por ex :(I+5)
+ *function
+ *switch case
+ *variaveis let/ const
+ *palavra reservada : break & continue
+  
+  **aprendizados que não foram utilizados** 
+  *while
+  *do...while
+  concatenar
+  *interpolar 
+  *if
+  *else if
+
  
